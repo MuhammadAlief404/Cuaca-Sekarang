@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:layout_gravity="center">
 
-    <android.support.v7.widget.AppCompatButton
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_animasi"
         android:layout_width="match_parent"
         android:layout_height="10dp"
@@ -62,7 +62,7 @@
         android:textColor="@android:color/background_light"
         android:textAlignment="center"/>
 
-    <android.support.v7.widget.AppCompatButton
+    <androidx.appcompat.widget.AppCompatButton
     android:id="@+id/btn_lokasi"
     android:layout_width="match_parent"
     android:layout_height="80dp"
